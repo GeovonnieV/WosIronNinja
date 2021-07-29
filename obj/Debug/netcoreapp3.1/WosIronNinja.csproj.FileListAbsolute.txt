@@ -1,0 +1,13 @@
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\bin\Debug\netcoreapp3.1\WosIronNinja.exe
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\bin\Debug\netcoreapp3.1\WosIronNinja.deps.json
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\bin\Debug\netcoreapp3.1\WosIronNinja.runtimeconfig.json
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\bin\Debug\netcoreapp3.1\WosIronNinja.runtimeconfig.dev.json
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\bin\Debug\netcoreapp3.1\WosIronNinja.dll
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\bin\Debug\netcoreapp3.1\WosIronNinja.pdb
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\obj\Debug\netcoreapp3.1\WosIronNinja.csprojAssemblyReference.cache
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\obj\Debug\netcoreapp3.1\WosIronNinja.AssemblyInfoInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\obj\Debug\netcoreapp3.1\WosIronNinja.AssemblyInfo.cs
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\obj\Debug\netcoreapp3.1\WosIronNinja.csproj.CoreCompileInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\obj\Debug\netcoreapp3.1\WosIronNinja.dll
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\obj\Debug\netcoreapp3.1\WosIronNinja.pdb
+C:\Users\Geo\code\wos\cSharp\WosIronNinja\obj\Debug\netcoreapp3.1\WosIronNinja.genruntimeconfig.cache
